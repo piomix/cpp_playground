@@ -1,0 +1,229 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CodeLite_Workspace Name="playground" Database="" Version="10000" SWTLW="Yes">
+  <WorkspaceParserMacros/>
+  <WorkspaceParserPaths/>
+  <Project Name="1-welcome" Path="1-welcome/1-welcome.project" Active="No"/>
+  <Project Name="2-add-integers" Path="2-add-integers/2-add-integers.project" Active="No"/>
+  <Project Name="3-comparing-integers" Path="3-comparing-integers/3-comparing-integers.project" Active="No"/>
+  <Project Name="5-class-average" Path="5-class-average/5-class-average.project" Active="No"/>
+  <Project Name="6-sentinel-controlled-iteration" Path="6-sentinel-controlled-iteration/6-sentinel-controlled-iteration.project" Active="No"/>
+  <Project Name="7-nested-controlled-statetements" Path="7-nested-controlled-statetements/7-nested-controlled-statetements.project" Active="No"/>
+  <Project Name="8-increment-decrement-operator" Path="8-increment-decrement-operator/8-increment-decrement-operator.project" Active="No"/>
+  <Project Name="9-multiprecision" Path="9-multiprecision/9-multiprecision.project" Active="No"/>
+  <Project Name="10-counter-controlled-iteration" Path="10-counter-controlled-iteration/10-counter-controlled-iteration.project" Active="No"/>
+  <Project Name="11-compound-interest" Path="11-compound-interest/11-compound-interest.project" Active="No"/>
+  <Project Name="12-do-while" Path="12-do-while/12-do-while.project" Active="No"/>
+  <Project Name="13-switch" Path="13-switch/13-switch.project" Active="No"/>
+  <Project Name="14-selection-with-initializer" Path="14-selection-with-initializer/14-selection-with-initializer.project" Active="No"/>
+  <Project Name="15-break-continue" Path="15-break-continue/15-break-continue.project" Active="No"/>
+  <Project Name="16-logical-operators" Path="16-logical-operators/16-logical-operators.project" Active="No"/>
+  <Project Name="17-monetary-calculations" Path="17-monetary-calculations/17-monetary-calculations.project" Active="No"/>
+  <Project Name="18-functions-prototypes" Path="18-functions-prototypes/18-functions-prototypes.project" Active="No"/>
+  <Project Name="19-random-number-generation" Path="19-random-number-generation/19-random-number-generation.project" Active="No"/>
+  <Project Name="20-game-of-chance" Path="20-game-of-chance/20-game-of-chance.project" Active="No"/>
+  <Project Name="21-inline-functions" Path="21-inline-functions/21-inline-functions.project" Active="No"/>
+  <Project Name="22-references" Path="22-references/22-references.project" Active="No"/>
+  <Project Name="23-default-aurguments" Path="23-default-aurguments/23-default-aurguments.project" Active="No"/>
+  <Project Name="24-function-overloading" Path="24-function-overloading/24-function-overloading.project" Active="No"/>
+  <Project Name="25-function-templates" Path="25-function-templates/25-function-templates.project" Active="No"/>
+  <Project Name="26-recursion" Path="26-recursion/26-recursion.project" Active="No"/>
+  <Project Name="27-scoping" Path="27-scoping/27-scoping.project" Active="No"/>
+  <Project Name="28-vigenere-cipher" Path="28-vigenere-cipher/28-vigenere-cipher.project" Active="No"/>
+  <Project Name="29-arrays" Path="29-arrays/29-arrays.project" Active="No"/>
+  <Project Name="30-range-based-for" Path="30-range-based-for/30-range-based-for.project" Active="No"/>
+  <Project Name="multidimensionArray" Path="31-multidimensional-arrays/multidimensionArray.project" Active="No"/>
+  <Project Name="functionalPrograming" Path="32-functional-programming/functionalPrograming.project" Active="No"/>
+  <Project Name="vectors" Path="33-vectors/vectors.project" Active="No"/>
+  <Project Name="pointers" Path="34-pointers/pointers.project" Active="No"/>
+  <Project Name="built-in-arrays" Path="35-built-in-arrays/built-in-arrays.project" Active="No"/>
+  <Project Name="sizeof-operator" Path="36-sizeof-operator/sizeof-operator.project" Active="No"/>
+  <Project Name="spans" Path="37-spans/spans.project" Active="No"/>
+  <Project Name="c-strings" Path="38-c-strings/c-strings.project" Active="No"/>
+  <Project Name="string-characteristics" Path="39-strings/string-characteristics.project" Active="No"/>
+  <Project Name="file-stream" Path="40-file-stream/file-stream.project" Active="No"/>
+  <Project Name="titanic-analysis" Path="41-titanic-analysis/titanic-analysis.project" Active="No"/>
+  <Project Name="cvs-processing" Path="42-csv-processing/cvs-processing.project" Active="No"/>
+  <Project Name="regexp" Path="43-regexp/regexp.project" Active="No"/>
+  <Project Name="custom-classes" Path="44-custom-classes/custom-classes.project" Active="No"/>
+  <Project Name="interfaces" Path="45-interface-class-impl/interfaces.project" Active="No"/>
+  <Project Name="interfaces" Path="45-interface-class-impl/interfaces.project" Active="No"/>
+  <Project Name="breaking-encapsulation" Path="46-breaking-encapsulation/breaking-encapsulation.project" Active="No"/>
+  <Project Name="47-default-assignment-operator" Path="47-default-assignment-operator/46-default-assignment-operator.project" Active="No"/>
+  <Project Name="const-and-non-const" Path="48-const-and-non-const/const-and-non-const.project" Active="No"/>
+  <Project Name="object-composition" Path="49-object-composition/object-composition.project" Active="No"/>
+  <Project Name="friend-functions-and-friend-classes" Path="50-friend-functions-and-classes/friend-functions-and-friend-classes.project" Active="No"/>
+  <Project Name="this-pointer" Path="51-this-pointer/this-pointer.project" Active="No"/>
+  <Project Name="chain-member-functions-call" Path="52-cascade-member-function-calls/chain-member-functions-call.project" Active="No"/>
+  <Project Name="static-class-members" Path="53-static-class-members/static-class-members.project" Active="No"/>
+  <Project Name="54-vigenere-cipher" Path="54-vigenere-cipher/54-vigenere-cipher.project" Active="No"/>
+  <BuildMatrix>
+    <WorkspaceConfiguration Name="Debug">
+      <Environment/>
+      <Project Name="31-multidimensional-arrays" ConfigName="Debug"/>
+      <Project Name="32-functional-programming" ConfigName="Debug"/>
+      <Project Name="33-vectors" ConfigName="Debug"/>
+      <Project Name="34-pointers" ConfigName="Debug"/>
+      <Project Name="35-built-in-arrays" ConfigName="Debug"/>
+      <Project Name="36-sizeof-operator" ConfigName="Debug"/>
+      <Project Name="37-spans" ConfigName="Debug"/>
+      <Project Name="38-c-strings" ConfigName="Debug"/>
+      <Project Name="4-string-class" ConfigName="Debug"/>
+      <Project Name="39-strings" ConfigName="Debug"/>
+      <Project Name="40-file-stream" ConfigName="Debug"/>
+      <Project Name="42-csv-processing" ConfigName="Debug"/>
+      <Project Name="42-csv-processing" ConfigName="Debug"/>
+      <Project Name="41-titanic-analysis" ConfigName="Debug"/>
+      <Project Name="43-regexp" ConfigName="Debug"/>
+      <Project Name="44-custom-classes" ConfigName="Debug"/>
+      <Project Name="45-interface-class-impl" ConfigName="Debug"/>
+      <Project Name="46-breaking-encapsulation" ConfigName="Debug"/>
+      <Project Name="48-const-and-non-const" ConfigName="Debug"/>
+      <Project Name="49-object-composition" ConfigName="Debug"/>
+      <Project Name="50-friend-functions-and-classes" ConfigName="Debug"/>
+      <Project Name="51-this-pointer" ConfigName="Debug"/>
+      <Project Name="52-cascade-member-function-calls" ConfigName="Debug"/>
+      <Project Name="53-static-class-members" ConfigName="Debug"/>
+      <Project Name="1-welcome" ConfigName="Debug"/>
+      <Project Name="2-add-integers" ConfigName="Debug"/>
+      <Project Name="3-comparing-integers" ConfigName="Debug"/>
+      <Project Name="4-string-class" ConfigName="Debug"/>
+      <Project Name="5-class-average" ConfigName="Debug"/>
+      <Project Name="6-sentinel-controlled-iteration" ConfigName="Debug"/>
+      <Project Name="7-nested-controlled-statetements" ConfigName="Debug"/>
+      <Project Name="8-increment-decrement-operator" ConfigName="Debug"/>
+      <Project Name="9-multiprecision" ConfigName="Debug"/>
+      <Project Name="49-object-composition" ConfigName="Debug"/>
+      <Project Name="10-counter-controlled-iteration" ConfigName="Debug"/>
+      <Project Name="11-compound-interest" ConfigName="Debug"/>
+      <Project Name="12-do-while" ConfigName="Debug"/>
+      <Project Name="13-switch" ConfigName="Debug"/>
+      <Project Name="14-selection-with-initializer" ConfigName="Debug"/>
+      <Project Name="15-break-continue" ConfigName="Debug"/>
+      <Project Name="16-logical-operators" ConfigName="Debug"/>
+      <Project Name="17-monetary-calculations" ConfigName="Debug"/>
+      <Project Name="18-functions-prototypes" ConfigName="Debug"/>
+      <Project Name="19-random-number-generation" ConfigName="Debug"/>
+      <Project Name="20-game-of-chance" ConfigName="Debug"/>
+      <Project Name="49-object-composition" ConfigName="Debug"/>
+      <Project Name="21-inline-functions" ConfigName="Debug"/>
+      <Project Name="22-references" ConfigName="Debug"/>
+      <Project Name="23-default-aurguments" ConfigName="Debug"/>
+      <Project Name="24-function-overloading" ConfigName="Debug"/>
+      <Project Name="25-function-templates" ConfigName="Debug"/>
+      <Project Name="26-recursion" ConfigName="Debug"/>
+      <Project Name="27-scoping" ConfigName="Debug"/>
+      <Project Name="28-vigenere-cipher" ConfigName="Debug"/>
+      <Project Name="29-arrays" ConfigName="Debug"/>
+      <Project Name="30-range-based-for" ConfigName="Debug"/>
+      <Project Name="31-multidimensional-arrays" ConfigName="Debug"/>
+      <Project Name="32-functional-programming" ConfigName="Debug"/>
+      <Project Name="33-vectors" ConfigName="Debug"/>
+      <Project Name="34-pointers" ConfigName="Debug"/>
+      <Project Name="35-built-in-arrays" ConfigName="Debug"/>
+      <Project Name="36-sizeof-operator" ConfigName="Debug"/>
+      <Project Name="37-spans" ConfigName="Debug"/>
+      <Project Name="38-c-strings" ConfigName="Debug"/>
+      <Project Name="39-strings" ConfigName="Debug"/>
+      <Project Name="40-file-stream" ConfigName="Debug"/>
+      <Project Name="41-titanic-analysis" ConfigName="Debug"/>
+      <Project Name="42-csv-processing" ConfigName="Debug"/>
+      <Project Name="43-regexp" ConfigName="Debug"/>
+      <Project Name="44-custom-classes" ConfigName="Debug"/>
+      <Project Name="45-interface-class-impl" ConfigName="Debug"/>
+      <Project Name="45-interface-class-impl" ConfigName="Debug"/>
+      <Project Name="46-breaking-encapsulation" ConfigName="Debug"/>
+      <Project Name="47-default-assignment-operator" ConfigName="Debug"/>
+      <Project Name="48-const-and-non-const" ConfigName="Debug"/>
+      <Project Name="49-object-composition" ConfigName="Debug"/>
+      <Project Name="50-friend-functions-and-classes" ConfigName="Debug"/>
+      <Project Name="51-this-pointer" ConfigName="Debug"/>
+      <Project Name="52-cascade-member-function-calls" ConfigName="Debug"/>
+      <Project Name="53-static-class-members" ConfigName="Debug"/>
+      <Project Name="54-vigenere-cipher" ConfigName="Debug"/>
+    </WorkspaceConfiguration>
+    <WorkspaceConfiguration Name="Release">
+      <Environment/>
+      <Project Name="31-multidimensional-arrays" ConfigName="Release"/>
+      <Project Name="32-functional-programming" ConfigName="Release"/>
+      <Project Name="33-vectors" ConfigName="Release"/>
+      <Project Name="34-pointers" ConfigName="Release"/>
+      <Project Name="35-built-in-arrays" ConfigName="Release"/>
+      <Project Name="36-sizeof-operator" ConfigName="Release"/>
+      <Project Name="37-spans" ConfigName="Release"/>
+      <Project Name="38-c-strings" ConfigName="Release"/>
+      <Project Name="4-string-class" ConfigName="Release"/>
+      <Project Name="39-strings" ConfigName="Release"/>
+      <Project Name="40-file-stream" ConfigName="Release"/>
+      <Project Name="42-csv-processing" ConfigName="Release"/>
+      <Project Name="42-csv-processing" ConfigName="Release"/>
+      <Project Name="41-titanic-analysis" ConfigName="Release"/>
+      <Project Name="43-regexp" ConfigName="Release"/>
+      <Project Name="44-custom-classes" ConfigName="Release"/>
+      <Project Name="45-interface-class-impl" ConfigName="Release"/>
+      <Project Name="46-breaking-encapsulation" ConfigName="Release"/>
+      <Project Name="48-const-and-non-const" ConfigName="Release"/>
+      <Project Name="49-object-composition" ConfigName="Release"/>
+      <Project Name="50-friend-functions-and-classes" ConfigName="Release"/>
+      <Project Name="51-this-pointer" ConfigName="Release"/>
+      <Project Name="52-cascade-member-function-calls" ConfigName="Release"/>
+      <Project Name="53-static-class-members" ConfigName="Release"/>
+      <Project Name="1-welcome" ConfigName="Release"/>
+      <Project Name="2-add-integers" ConfigName="Release"/>
+      <Project Name="3-comparing-integers" ConfigName="Release"/>
+      <Project Name="4-string-class" ConfigName="Release"/>
+      <Project Name="5-class-average" ConfigName="Release"/>
+      <Project Name="6-sentinel-controlled-iteration" ConfigName="Release"/>
+      <Project Name="7-nested-controlled-statetements" ConfigName="Release"/>
+      <Project Name="8-increment-decrement-operator" ConfigName="Release"/>
+      <Project Name="9-multiprecision" ConfigName="Release"/>
+      <Project Name="49-object-composition" ConfigName="Release"/>
+      <Project Name="10-counter-controlled-iteration" ConfigName="Release"/>
+      <Project Name="11-compound-interest" ConfigName="Release"/>
+      <Project Name="12-do-while" ConfigName="Release"/>
+      <Project Name="13-switch" ConfigName="Release"/>
+      <Project Name="14-selection-with-initializer" ConfigName="Release"/>
+      <Project Name="15-break-continue" ConfigName="Release"/>
+      <Project Name="16-logical-operators" ConfigName="Release"/>
+      <Project Name="17-monetary-calculations" ConfigName="Release"/>
+      <Project Name="18-functions-prototypes" ConfigName="Release"/>
+      <Project Name="19-random-number-generation" ConfigName="Release"/>
+      <Project Name="20-game-of-chance" ConfigName="Release"/>
+      <Project Name="49-object-composition" ConfigName="Release"/>
+      <Project Name="21-inline-functions" ConfigName="Release"/>
+      <Project Name="22-references" ConfigName="Release"/>
+      <Project Name="23-default-aurguments" ConfigName="Release"/>
+      <Project Name="24-function-overloading" ConfigName="Release"/>
+      <Project Name="25-function-templates" ConfigName="Release"/>
+      <Project Name="26-recursion" ConfigName="Release"/>
+      <Project Name="27-scoping" ConfigName="Release"/>
+      <Project Name="28-vigenere-cipher" ConfigName="Release"/>
+      <Project Name="29-arrays" ConfigName="Release"/>
+      <Project Name="30-range-based-for" ConfigName="Release"/>
+      <Project Name="31-multidimensional-arrays" ConfigName="Release"/>
+      <Project Name="32-functional-programming" ConfigName="Release"/>
+      <Project Name="33-vectors" ConfigName="Release"/>
+      <Project Name="34-pointers" ConfigName="Release"/>
+      <Project Name="35-built-in-arrays" ConfigName="Release"/>
+      <Project Name="36-sizeof-operator" ConfigName="Release"/>
+      <Project Name="37-spans" ConfigName="Release"/>
+      <Project Name="38-c-strings" ConfigName="Release"/>
+      <Project Name="39-strings" ConfigName="Release"/>
+      <Project Name="40-file-stream" ConfigName="Release"/>
+      <Project Name="41-titanic-analysis" ConfigName="Release"/>
+      <Project Name="42-csv-processing" ConfigName="Release"/>
+      <Project Name="43-regexp" ConfigName="Release"/>
+      <Project Name="44-custom-classes" ConfigName="Release"/>
+      <Project Name="45-interface-class-impl" ConfigName="Release"/>
+      <Project Name="45-interface-class-impl" ConfigName="Release"/>
+      <Project Name="46-breaking-encapsulation" ConfigName="Release"/>
+      <Project Name="47-default-assignment-operator" ConfigName="Release"/>
+      <Project Name="48-const-and-non-const" ConfigName="Release"/>
+      <Project Name="49-object-composition" ConfigName="Release"/>
+      <Project Name="50-friend-functions-and-classes" ConfigName="Release"/>
+      <Project Name="51-this-pointer" ConfigName="Release"/>
+      <Project Name="52-cascade-member-function-calls" ConfigName="Release"/>
+      <Project Name="53-static-class-members" ConfigName="Release"/>
+      <Project Name="54-vigenere-cipher" ConfigName="Release"/>
+    </WorkspaceConfiguration>
+  </BuildMatrix>
+</CodeLite_Workspace>
