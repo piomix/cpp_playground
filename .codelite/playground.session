@@ -1,24 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<Session Name="/home/piomix/cpp/playground/playground.workspace">
+<Session Name="/media/piomix/homeMX/piomix/cpp/playground/playground.workspace">
   <int Value="0" Name="m_selectedTab"/>
-  <wxString Value="/home/piomix/cpp/playground/playground.workspace" Name="m_workspaceName"/>
+  <wxString Value="/media/piomix/homeMX/piomix/cpp/playground/playground.workspace" Name="m_workspaceName"/>
   <TabInfoArray Name="TabInfoArray">
     <TabInfo>
-      <wxString Value="/home/piomix/cpp/playground/44-custom-classes/account.cpp" Name="FileName"/>
-      <int Value="0" Name="FirstVisibleLine"/>
-      <int Value="0" Name="CurrentLine"/>
-      <wxArrayString Name="Bookmarks"/>
-      <IntVector Name="CollapsedFolds"/>
-    </TabInfo>
-    <TabInfo>
-      <wxString Value="/home/piomix/cpp/playground/44-custom-classes/Account.h" Name="FileName"/>
-      <int Value="0" Name="FirstVisibleLine"/>
-      <int Value="0" Name="CurrentLine"/>
-      <wxArrayString Name="Bookmarks"/>
-      <IntVector Name="CollapsedFolds"/>
-    </TabInfo>
-    <TabInfo>
-      <wxString Value="/home/piomix/cpp/playground/44-custom-classes/account-constructor.cpp" Name="FileName"/>
+      <wxString Value="/media/piomix/homeMX/piomix/cpp/playground/55-base-classes/base-class.cpp" Name="FileName"/>
       <int Value="0" Name="FirstVisibleLine"/>
       <int Value="0" Name="CurrentLine"/>
       <wxArrayString Name="Bookmarks"/>

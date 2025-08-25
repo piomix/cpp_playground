@@ -56,6 +56,11 @@
   <Project Name="chain-member-functions-call" Path="52-cascade-member-function-calls/chain-member-functions-call.project" Active="No"/>
   <Project Name="static-class-members" Path="53-static-class-members/static-class-members.project" Active="No"/>
   <Project Name="54-vigenere-cipher" Path="54-vigenere-cipher/54-vigenere-cipher.project" Active="No"/>
+  <Project Name="55-base-classes" Path="55-base-classes/55-base-classes.project" Active="No"/>
+  <Project Name="56-poly-virtual-functions" Path="56-poly-virtual-functions/56-poly-virtual-functions.project" Active="No"/>
+  <Project Name="57-interface-inheritance" Path="57-overrides/57-overrides.project" Active="Yes"/>
+  <Project Name="58-final" Path="58-final/58-final.project" Active="No"/>
+  <Project Name="60-dependency-injections" Path="60-dependency-injections/60-dependency-injections.project" Active="No"/>
   <BuildMatrix>
     <WorkspaceConfiguration Name="Debug">
       <Environment/>
@@ -140,6 +145,11 @@
       <Project Name="52-cascade-member-function-calls" ConfigName="Debug"/>
       <Project Name="53-static-class-members" ConfigName="Debug"/>
       <Project Name="54-vigenere-cipher" ConfigName="Debug"/>
+      <Project Name="55-base-classes" ConfigName="Debug"/>
+      <Project Name="56-poly-virtual-functions" ConfigName="Debug"/>
+      <Project Name="57-interface-inheritance" ConfigName="Debug"/>
+      <Project Name="58-final" ConfigName="Debug"/>
+      <Project Name="60-dependency-injections" ConfigName="Debug"/>
     </WorkspaceConfiguration>
     <WorkspaceConfiguration Name="Release">
       <Environment/>
@@ -224,6 +234,11 @@
       <Project Name="52-cascade-member-function-calls" ConfigName="Release"/>
       <Project Name="53-static-class-members" ConfigName="Release"/>
       <Project Name="54-vigenere-cipher" ConfigName="Release"/>
+      <Project Name="55-base-classes" ConfigName="Release"/>
+      <Project Name="56-poly-virtual-functions" ConfigName="Release"/>
+      <Project Name="57-interface-inheritance" ConfigName="Release"/>
+      <Project Name="58-final" ConfigName="Release"/>
+      <Project Name="60-dependency-injections" ConfigName="Release"/>
     </WorkspaceConfiguration>
   </BuildMatrix>
 </CodeLite_Workspace>
