@@ -1,8 +1,8 @@
 .PHONY: clean All
 
 All:
-	@echo "----------Building project:[ 56-poly-virtual-functions - Debug ]----------"
-	@cd "56-poly-virtual-functions" && "$(MAKE)" -f  "56-poly-virtual-functions.mk"
+	@echo "----------Building project:[ 60-myarray-case-study - Debug ]----------"
+	@cd "60-myarray-case-study" && "$(MAKE)" -f  "60-myarray-case-study.mk"
 clean:
-	@echo "----------Cleaning project:[ 56-poly-virtual-functions - Debug ]----------"
-	@cd "56-poly-virtual-functions" && "$(MAKE)" -f  "56-poly-virtual-functions.mk" clean
+	@echo "----------Cleaning project:[ 60-myarray-case-study - Debug ]----------"
+	@cd "60-myarray-case-study" && "$(MAKE)" -f  "60-myarray-case-study.mk" clean
